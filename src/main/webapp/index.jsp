@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>Formation @Devops@ Exam 701 badr-jbai talan: DevOps Tools Engineer | LPI...</p></header>
+<header id="header"><p>Formation @Devops@ Exam 701 badr jbai is working at talan: DevOps Tools Engineer | LPI...</p></header>
 	</br></br>
 
   <center> 
